@@ -13,7 +13,7 @@ const viralProducts = [
         views: "1.8M",
         likes: "210K",
         shares: "15K",
-        thumb: "https://images.unsplash.com/photo-1541599540903-216a46ca1dfc?auto=format&fit=crop&q=80&w=400",
+        thumb: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&q=80&w=400",
         category: "Perros"
     },
     {
@@ -21,7 +21,7 @@ const viralProducts = [
         views: "850K",
         likes: "95K",
         shares: "8K",
-        thumb: "https://images.unsplash.com/photo-1591768793355-74d75b5722c1?auto=format&fit=crop&q=80&w=400",
+        thumb: "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=400",
         category: "Hogar"
     },
     {
@@ -37,7 +37,7 @@ const viralProducts = [
         views: "2.5M",
         likes: "340K",
         shares: "22K",
-        thumb: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&q=80&w=400",
+        thumb: "https://images.unsplash.com/photo-1534361960057-19889db9621e?auto=format&fit=crop&q=80&w=400",
         category: "Seguridad"
     },
     {
